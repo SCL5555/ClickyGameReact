@@ -9,6 +9,7 @@
     "react-scripts": "1.1.4"
   },
   "homepage": "https://scl5555.github.io/clickygamereact",
+  "main": "index.js",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
